@@ -1,4 +1,4 @@
-# Dialogue Summarization with FLAN-T5
+# Dialogue Summarization 
 
 ## Task Description
 The task involves summarizing dialogues using FLAN-T5. We explore various inference strategies, including zero-shot, one-shot, and few-shot, to understand their impact on the generative output of the language model. This project serves as a preliminary investigation into prompt engineering techniques for enhancing the summarization capabilities of LLMs.
